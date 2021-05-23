@@ -1,0 +1,40 @@
+{
+  "name": "svelte-ts-tailwind-vite-template",
+  "version": "1.0.0",
+  "description": "template for svelte + ts + tailwind + vite",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "next",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.9",
+    "svelte": "^3.35.0",
+    "svelte-preprocess": "^4.6.9",
+    "tailwindcss": "^2.1.0",
+    "typescript": "^4.2.3",
+    "vite": "^2.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hua1995116/svelte-ts-tailwind-vite-template.git"
+  },
+  "keywords": [
+    "vite",
+    "svelte",
+    "tailwindcss",
+    "components"
+  ],
+  "author": "hua1995116",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hua1995116/svelte-ts-tailwind-vite-template/issues"
+  },
+  "homepage": "https://github.com/hua1995116/svelte-ts-tailwind-vite-template#readme",
+  "dependencies": {
+    "svelte-router-spa": "^6.0.2"
+  }
+}
